@@ -8,5 +8,3 @@ EGUSMClass = function(name)
 end
 
 EGUSMClass("SubscribeUtility")
-	EGUSMClass("StateMachine")
-		EGUSMClass("PlayerManager")
