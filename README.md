@@ -1,3 +1,5 @@
+note: I made this back in 2016 for Philpax to demonstrate a bug. Ignore this.
+
 # BugTest
 A test for bug that occurs in certain circumstances when teleporting a player while in CalcView
 
